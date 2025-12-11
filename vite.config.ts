@@ -8,7 +8,7 @@ export default defineConfig(({ mode }) => ({
   // Para GitHub Pages: mude '/nome-do-repositorio/' para o nome do seu repo
   // Exemplo: se o repo é 'meu-cartao', coloque base: '/meu-cartao/'
   // Para domínio customizado ou root, use base: '/'
-  base: process.env.NODE_ENV === 'production' ? '/chaveiro-gilvan-doria/' : '/',
+  base: process.env.NODE_ENV === 'production' ? '/digital-card-pro/' : '/',
   server: {
     host: "::",
     port: 8080,
