@@ -17,7 +17,7 @@ export interface CardConfig {
 
 const cardConfig: CardConfig = {
   // Nome do profissional ou empresa
-  nome: "Chaveiro Express",
+  nome: "Gilvan",
   
   // Descrição curta dos serviços
   descricao: "Soluções rápidas e seguras para todas as suas necessidades em chaves e fechaduras",
